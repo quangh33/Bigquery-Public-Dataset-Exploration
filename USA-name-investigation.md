@@ -123,7 +123,7 @@ Jessica|1043442
 - female
 
 
-**decade**|**    name**|**count**
+**decade**|**name**|**count**
 :-----:|:-----:|:-----:
 1910-1919|Mary|478639
 1920-1929|Mary|701754
